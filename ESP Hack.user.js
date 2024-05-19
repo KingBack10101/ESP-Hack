@@ -2,7 +2,7 @@
 // @name         ESP Hack
 // @author       KingBack
 // @version      1.0
-// @description  This version is extracted from Jawon's script, you can just use this simple ESP if you scared to be ban on main server.
+// @description  This ESP is cracked from Jawon's script. ESP will not cause account bans on main server, coz it's undetectable, xD.
 // @match        https://*.3dtank.com/*
 // @match        https://*.tankionline.com/*
 // @icon         https://tankionline.com/favicon.ico
